@@ -1,0 +1,16 @@
+.todos {
+}
+.todos__item {
+  margin: 8px;
+  cursor: pointer;
+}
+.todos__item--completed {
+  text-decoration: line-through;
+}
+.filter {
+  color: white;
+  background-color: blue;
+}
+.filter--active {
+  background-color: green;
+}
